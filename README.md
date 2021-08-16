@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VincentKwan
 - 🔭 I’m currently a Information Technolody Student
-- 🌱 I’m currently learning a javascript, react.js and aos.js
+- 🌱 I’m currently learning a javascript and react.js
 - 👯 I’m interested with Front-end Web Development
 - 📫 How to reach me: kindly contact me at vincentkwan50@gmail.com
